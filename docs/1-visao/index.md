@@ -61,21 +61,20 @@ Apoio”;
  
 ## Interessados
 
-* Tipo de interessado 1
+* Comerciantes
 * Tipo de interessado 2
 * Tipo de interessado 3
 * etc.
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Pessoa Fisica
+* Pessoa Jurídica
+
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
+* Atender ao usuario 
 * Funcionalidade 2
 * etc.
 
